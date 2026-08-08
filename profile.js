@@ -11,11 +11,11 @@ If you do not have a link yet, leave that section as an empty list: []
 */
 
 const studentProfile = {
-  name: "Your Name",
+  name: "Vedhika Sathish",
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "Write a short paragraph about yourself here. You might include your scientific interests, what you hope to learn in DREAM-High, and something you are excited to explore in computational biology.",
+  bio: "Hi! I'm Vedhika, a rising senior at Eastlake High School with a strong interest in computational biology, public health, and dentistry. Through my research on oral health disparities and my clinical volunteering, I've become passionate about using data and science to better understand disease and improve healthcare access. In DREAM-High, I hope to strengthen my computational biology and data analysis skills while learning how biological data can be used to answer real-world health questions. I'm especially excited to explore how programming and computational tools can help advance medical research and lead to more effective, equitable healthcare solutions.",
 
   /*
   Optional photo:
@@ -27,7 +27,7 @@ const studentProfile = {
   */
   photo: "",
 
-  contact: "Contact information available upon request.",
+  contact: "Vedhikasathish06@gmail.com",
 
   /*
   RPubs activities:
@@ -54,7 +54,7 @@ const studentProfile = {
   */
   finalProject: {
     title: "My DREAM-High Final Project",
-    description: "Write one or two sentences describing your final project.",
+    description: "My final project, Cancer Stories, explores how cancer affects people beyond the biology by combining personal experiences with research on diagnosis, treatment, early detection, and prevention. Through this project, I hope to highlight the importance of compassionate care while showing how computational biology and research can improve cancer outcomes and advance future treatments.",
     url: ""
   },
 
